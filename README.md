@@ -1,2 +1,2 @@
-# Diabetes-and-Retinopathy-Classification
-Diabetes and Retinopathy Classification: A Multi-Modal Approach
+# Diabetes and Retinopathy Prediction Using Machine Learning
+Diabetes and Retinopathy Classification
